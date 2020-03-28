@@ -64,6 +64,8 @@
     ```
 
     **Veja as configurações do banco de dados desse projeto [aqui](./knexfile.js).**
+    
+    **Para conhecer o Query Builder usado nesse projeto, clique [aqui](http://knexjs.org/)**
   
   ### Banco de dados não relacionais:
   - NoSQL: MongoDB, CouchDB, etc.
