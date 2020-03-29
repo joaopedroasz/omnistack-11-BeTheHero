@@ -78,7 +78,6 @@
 
  ## Funcionalidades:
  - [X] Login de ONG;
- - [ ] Logout de ONG;
  - [X] Cadastro de novas ONG's;
  - [X] ONG consegue cadastrar novos casos;
  - [X] ONG consegue deletar seus casos;

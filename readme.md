@@ -26,8 +26,6 @@
 ## 🌎 Visão Geral:
 O **Be The Hero** é um projeto que visa conectar ONG's (Organizações Não Governamentais) com a população. No qual as ONG's podem publicar seus casos de ação, podendo receber quantias financeiras para ajudá-las.
 
-<br>
-
 ## 💻 Tecnologias:  
 O DevRadar foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/pt-br/)
@@ -36,14 +34,10 @@ O DevRadar foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-<br>
-
 ## 📚 Projeto:
 
 ### 💾 Backend:
-Para ver conceitos e deifinição do *Backend* desse projeto, clique [aqui](./backend/readme.md).
-
-<br>
+Para ver conceitos e definição do *Backend* desse projeto, clique [aqui](./backend/readme.md).
 
 ## 🌐 Instalação:
 
@@ -70,9 +64,14 @@ yarn knex migrate:latest
 - Rotas:
 
 Para testar a API do Be The Hero, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` →  
-`Import Data` → `From File` → e selecione [esse arquivo](.github/Insomia_routes.json) deste repositório.
+`Import Data` → `From File` → e selecione [esse arquivo](./.github/Insomnia_routes.json) deste repositório.
 
-<br>
+- Rodando o backend:
+Para iniciar o servidor, com seu terminal, entre em `./backend/` e digite o comando:
+
+```bash
+yarn server
+```
 
 ## 🤔 Como contribuir:
 
