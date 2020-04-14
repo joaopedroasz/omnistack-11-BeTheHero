@@ -27,7 +27,7 @@
 O **Be The Hero** é um projeto que visa conectar ONG's (Organizações Não Governamentais) com a população. No qual as ONG's podem publicar seus casos de ação, podendo receber quantias financeiras para ajudá-las.
 
 ## 💻 Tecnologias:  
-O DevRadar foi desenvolvido com as seguintes tecnologias:
+O Be The Hero foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/pt-br/)
 - [KnexJS](http://knexjs.org/)
 - [ReactJS](https://reactjs.org)
